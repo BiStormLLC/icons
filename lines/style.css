@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?5d4154');
+  src:  url('fonts/icomoon.eot?5d4154#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?5d4154') format('truetype'),
+    url('fonts/icomoon.woff?5d4154') format('woff'),
+    url('fonts/icomoon.svg?5d4154#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-line-apparel:before {
+  content: "\e900";
+}
+.icon-line-bistorm:before {
+  content: "\e901";
+}
+.icon-line-docker:before {
+  content: "\e902";
+}
+.icon-line-email:before {
+  content: "\e903";
+}
+.icon-line-fbjs:before {
+  content: "\e904";
+}
+.icon-line-github:before {
+  content: "\e905";
+}
+.icon-line-home:before {
+  content: "\e906";
+}
+.icon-line-instagram:before {
+  content: "\e907";
+}
+.icon-line-linkedin:before {
+  content: "\e908";
+}
+.icon-line-nodejs:before {
+  content: "\e909";
+}
+.icon-line-paypal:before {
+  content: "\e90a";
+}
+.icon-line-periscope:before {
+  content: "\e90b";
+}
+.icon-line-play:before {
+  content: "\e90c";
+}
+.icon-line-podcast:before {
+  content: "\e90d";
+}
+.icon-line-skype:before {
+  content: "\e90e";
+}
+.icon-line-slack:before {
+  content: "\e90f";
+}
+.icon-line-snapchat:before {
+  content: "\e910";
+}
+.icon-line-trello:before {
+  content: "\e911";
+}
+.icon-icon_line_tumblr:before {
+  content: "\e912";
+}
+.icon-line-twitch:before {
+  content: "\e913";
+}
+.icon-line-twitter:before {
+  content: "\e914";
+}
+.icon-line-yt:before {
+  content: "\e915";
+}
+

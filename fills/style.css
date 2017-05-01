@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?18oabc');
+  src:  url('fonts/icomoon.eot?18oabc#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?18oabc') format('truetype'),
+    url('fonts/icomoon.woff?18oabc') format('woff'),
+    url('fonts/icomoon.svg?18oabc#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fill-apparel:before {
+  content: "\e900";
+}
+.icon-fill-bistorm:before {
+  content: "\e901";
+}
+.icon-fill-docker:before {
+  content: "\e902";
+}
+.icon-fill-email:before {
+  content: "\e903";
+}
+.icon-fill-fbjs:before {
+  content: "\e904";
+}
+.icon-fill-github:before {
+  content: "\e905";
+}
+.icon-fill-home:before {
+  content: "\e906";
+}
+.icon-fill-instagram:before {
+  content: "\e907";
+}
+.icon-fill-linkedin:before {
+  content: "\e908";
+}
+.icon-fill-nodejs:before {
+  content: "\e909";
+}
+.icon-fill-paypal:before {
+  content: "\e90a";
+}
+.icon-fill-periscope:before {
+  content: "\e90b";
+}
+.icon-fill-play:before {
+  content: "\e90c";
+}
+.icon-fill-podcast:before {
+  content: "\e90d";
+}
+.icon-fill-skype:before {
+  content: "\e90e";
+}
+.icon-fill-slack .path1:before {
+  content: "\e90f";
+  color: rgb(255, 255, 255);
+}
+.icon-fill-slack .path2:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-fill-slack .path3:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-fill-slack .path4:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-fill-slack .path5:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-fill-slack .path6:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-fill-snapchat:before {
+  content: "\e915";
+}
+.icon-fill-trello:before {
+  content: "\e916";
+}
+.icon-fill-tumblr:before {
+  content: "\e917";
+}
+.icon-fill-twitch:before {
+  content: "\e918";
+}
+.icon-fill-twitter:before {
+  content: "\e919";
+}
+.icon-fill-yt:before {
+  content: "\e91a";
+}
+
