@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?8cnrq');
-  src:  url('fonts/icomoon.eot?8cnrq#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?8cnrq') format('truetype'),
-    url('fonts/icomoon.woff?8cnrq') format('woff'),
-    url('fonts/icomoon.svg?8cnrq#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?557yn9');
+  src:  url('fonts/icomoon.eot?557yn9#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?557yn9') format('truetype'),
+    url('fonts/icomoon.woff?557yn9') format('woff'),
+    url('fonts/icomoon.svg?557yn9#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -33,11 +33,11 @@
 .icon-circle-docker:before {
   content: "\e902";
 }
-.icon-circle-email:before {
-  content: "\e903";
-}
 .icon-circle-fbjs:before {
   content: "\e904";
+}
+.icon-circle-email:before {
+  content: "\e903";
 }
 .icon-circle-github:before {
   content: "\e905";

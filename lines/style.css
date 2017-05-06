@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?5d4154');
-  src:  url('fonts/icomoon.eot?5d4154#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?5d4154') format('truetype'),
-    url('fonts/icomoon.woff?5d4154') format('woff'),
-    url('fonts/icomoon.svg?5d4154#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?pkcz37');
+  src:  url('fonts/icomoon.eot?pkcz37#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?pkcz37') format('truetype'),
+    url('fonts/icomoon.woff?pkcz37') format('woff'),
+    url('fonts/icomoon.svg?pkcz37#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -78,13 +78,13 @@
 .icon-line-trello:before {
   content: "\e911";
 }
-.icon-icon_line_tumblr:before {
+.icon-line-tumblr:before {
   content: "\e912";
 }
-.icon-line-twitch:before {
+.icon-icon_line_twitch:before {
   content: "\e913";
 }
-.icon-line-twitter:before {
+.icon-icon_line_twitter:before {
   content: "\e914";
 }
 .icon-line-yt:before {

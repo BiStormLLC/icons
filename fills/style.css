@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?18oabc');
-  src:  url('fonts/icomoon.eot?18oabc#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?18oabc') format('truetype'),
-    url('fonts/icomoon.woff?18oabc') format('woff'),
-    url('fonts/icomoon.svg?18oabc#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?2ks1a6');
+  src:  url('fonts/icomoon.eot?2ks1a6#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?2ks1a6') format('truetype'),
+    url('fonts/icomoon.woff?2ks1a6') format('woff'),
+    url('fonts/icomoon.svg?2ks1a6#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -66,9 +66,6 @@
 .icon-fill-podcast:before {
   content: "\e90d";
 }
-.icon-fill-skype:before {
-  content: "\e90e";
-}
 .icon-fill-slack .path1:before {
   content: "\e90f";
   color: rgb(255, 255, 255);
@@ -98,22 +95,25 @@
   margin-left: -1em;
   color: rgb(0, 0, 0);
 }
+.icon-fill-skype:before {
+  content: "\e90e";
+}
 .icon-fill-snapchat:before {
   content: "\e915";
 }
 .icon-fill-trello:before {
-  content: "\e916";
-}
-.icon-fill-tumblr:before {
   content: "\e917";
 }
-.icon-fill-twitch:before {
+.icon-fill-tumblr:before {
   content: "\e918";
 }
+.icon-fill-twitch:before {
+  content: "\e916";
+}
 .icon-fill-twitter:before {
-  content: "\e919";
+  content: "\e91a";
 }
 .icon-fill-yt:before {
-  content: "\e91a";
+  content: "\e91b";
 }
 
